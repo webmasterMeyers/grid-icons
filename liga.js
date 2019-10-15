@@ -25,6 +25,15 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'phone': '&#xe900;',
+            'landline': '&#xe900;',
+            'mobile': '&#xe905;',
+            'cellular': '&#xe905;',
+            'png': '&#xe901;',
+            'pdf': '&#xe902;',
+            'jpg': '&#xe903;',
+            'bmp': '&#xe904;',
+            'gif': '&#xe906;',
             'download': '&#xe9c7;',
             'upload': '&#xe9c8;',
             'plus': '&#xea0a;',
@@ -118,11 +127,6 @@
             'down': '&#xea3e;',
             'arrow-left': '&#xea40;',
             'left': '&#xea40;',
-            'png': '&#xe901;',
-            'pdf': '&#xe902;',
-            'jpg': '&#xe903;',
-            'bmp': '&#xe904;',
-            'gif': '&#xe906;',
           '0': 0
         };
         delete icons['0'];
