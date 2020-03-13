@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icomoon';
   src:
-    url('fonts/icomoon.ttf?84bck9') format('truetype'),
-    url('fonts/icomoon.woff?84bck9') format('woff'),
-    url('fonts/icomoon.svg?84bck9#icomoon') format('svg');
+    url('fonts/icomoon.ttf?qwi6ob') format('truetype'),
+    url('fonts/icomoon.woff?qwi6ob') format('woff'),
+    url('fonts/icomoon.svg?qwi6ob#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -216,4 +216,7 @@
 }
 .icon-arrow-left:before {
   content: "\ea40";
+}
+.icon-checkbox-unchecked:before {
+  content: "\ea53";
 }

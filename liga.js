@@ -127,6 +127,8 @@
             'down': '&#xea3e;',
             'arrow-left': '&#xea40;',
             'left': '&#xea40;',
+            'checkbox-unchecked': '&#xea53;',
+            'checkbox2': '&#xea53;',
           '0': 0
         };
         delete icons['0'];
