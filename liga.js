@@ -129,6 +129,8 @@
             'left': '&#xea40;',
             'checkbox-unchecked': '&#xea53;',
             'checkbox2': '&#xea53;',
+            'new-tab': '&#xea7e;',
+            'out2': '&#xea7e;',
           '0': 0
         };
         delete icons['0'];

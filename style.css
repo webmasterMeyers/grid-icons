@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icomoon';
   src:
-    url('fonts/icomoon.ttf?qwi6ob') format('truetype'),
-    url('fonts/icomoon.woff?qwi6ob') format('woff'),
-    url('fonts/icomoon.svg?qwi6ob#icomoon') format('svg');
+    url('fonts/icomoon.ttf?2daftk') format('truetype'),
+    url('fonts/icomoon.woff?2daftk') format('woff'),
+    url('fonts/icomoon.svg?2daftk#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -219,4 +219,7 @@
 }
 .icon-checkbox-unchecked:before {
   content: "\ea53";
+}
+.icon-new-tab:before {
+  content: "\ea7e";
 }
